@@ -1,0 +1,6 @@
+{
+  "name": "v2rayNG",
+  "description": "A V2Ray client for Android",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
